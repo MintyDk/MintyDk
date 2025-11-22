@@ -5,7 +5,7 @@
 Ola! Me chamo Derick Dalmolin, tenho 19 anos e sou natural de Santa Catarina. Concluí o ensino médio no Eeb Prof Salete Scotti dos Santos, Atualmente, estou estudando desenvolvimento de sistemas. Sou DEV de 2 projetos atuais sendo eles "[4MCUP](https://discord.gg/4mcup)", Servidor de campeonatos apostado no gta5/fivem,"[4MPVP](https://discord.gg/4mpvp)", Servidor de Playes vs Playes com varios modos de jogo no gta5/fivem.
 
 <p align="left">
-    <a href="https://github.com/MindyDk?tab=repositories&sort=stargazers">
+    <a href="https://github.com/MintyDk?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -111,14 +111,14 @@ Ola! Me chamo Derick Dalmolin, tenho 19 anos e sou natural de Santa Catarina. Co
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Mintydk&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=MintyDk&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?Mintydk=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintyDk&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
