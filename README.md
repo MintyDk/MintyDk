@@ -12,7 +12,7 @@ Ola! Me chamo Derick Dalmolin, tenho 19 anos e sou natural de Santa Catarina, At
             src="https://custom-icon-badges.demolab.com/github/stars/MindyDk?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/MindyDk?tab=followers">
+    <a href="https://github.com/MintyDk?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
