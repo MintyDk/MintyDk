@@ -105,12 +105,5 @@ Ola! Me chamo Derick Dalmolin, tenho 19 anos e sou natural de Santa Catarina, At
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MintyDk&show_icons=true&theme=tokyonight" alt="Stats" width="100%"/>
-</div>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MintyDk&theme=tokyonight" alt="Streak"/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MintyDk&theme=tokyo-night" alt="Activity" width="100%"/>
-</div>
