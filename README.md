@@ -2,7 +2,7 @@
 
 **`Estudante de desenvolvimento de sistemas.`**
 
-Ola! Me chamo Derick Dalmolin, tenho 19 anos e sou natural de Santa Catarina, Atualmente, estou estudando desenvolvimento de sistemas. Sou DEV de 2 projetos atuais sendo eles "[4MCUP](https://discord.gg/4mcup)", Servidor de campeonatos apostado no gta5/fivem,"[4MPVP](https://discord.gg/4mpvp)", Servidor de Playes vs Playes com varios modos de jogo no gta5/fivem.
+Opa rapaze! Sou o Derick, tenho 19 anos. Comecei na programação criando o (https://discord.gg/4mcup) e o (https://discord.gg/4mpvp) no FiveM - um focado em campeonatos com apostas e outro em PvP. Uma semana atrás descobri minha paixão por gamedev, especialmente C#. Valeu por ler!
 
 <p align="left">
     <a href="https://github.com/MintyDk?tab=repositories&sort=stargazers">
