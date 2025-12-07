@@ -51,14 +51,6 @@ Opa rapaze! Sou o Derick, tenho 19 anos. Comecei na programação criando o (htt
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Lua"
     title="Lua" 
     width="30px" 
@@ -66,23 +58,6 @@ Opa rapaze! Sou o Derick, tenho 19 anos. Comecei na programação criando o (htt
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 
 />
           
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
 <img 
     align="left" 
     alt="Git" 
@@ -93,8 +68,8 @@ Opa rapaze! Sou o Derick, tenho 19 anos. Comecei na programação criando o (htt
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="C#" 
+    title="C#"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
