@@ -78,7 +78,7 @@ Opa rapaze! Sou o Derick, tenho 19 anos. Comecei na programação criando o (htt
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Estatísticas.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MintyDk&theme=tokyonight" alt="Streak" width="600"/>
 
