@@ -2,7 +2,7 @@
 
 **`Estudante de desenvolvimento de sistemas.`**
 
-Opa rapaze! Sou o Derick, tenho 19 anos. Comecei na programação criando o (https://discord.gg/4mcup) e o (https://discord.gg/4mpvp) no FiveM - um focado em campeonatos com apostas e outro em PvP. Uma semana atrás descobri minha paixão por gamedev, especialmente C#. 
+Opa! Sou o Derick, tenho 19 anos. Terminei meu ensino médio no Salette Scott dos Santos e recentemente ingressei na faculdade de Engenharia de Software. Comecei a programar criando o (https://discord.gg/4mcup) e o (https://discord.gg/4mpvp) no FiveM - um focado em campeonatos com apostas e outro em PvP.
 
 <p align="left">
     <a href="https://github.com/MintyDk?tab=repositories&sort=stargazers">
