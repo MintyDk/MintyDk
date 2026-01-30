@@ -66,14 +66,6 @@ Opa! Sou o Derick, tenho 19 anos. Terminei meu ensino médio no Salette Scott do
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c#/c#-original.svg" 
-/>
 
 <br/>
 <br/>
