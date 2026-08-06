@@ -1,22 +1,16 @@
-
-**Engenharia de Software · 19 anos · Empreendedor**
-
-Comecei a programar porque precisava de dinheiro. Simples assim.  
-Em vez de mandar currículo pra todo lado, decidi construir algo — e criei dois negócios dentro do FiveM do zero, cada um com modelo de receita próprio.
-
-Tô cursando Engenharia de Software desde 2026, mas a escola prática foi tentativa, erro e servidor quebrando às 2 da manhã.
-
-> Aberto a freelas, projetos e primeira oportunidade CLT/PJ.
-
-<p align="left">
-  <a href="https://github.com/devdk01?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/devdk01?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/devdk01?tab=followers">
-    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/devdk01?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
-  </a>
+<a href="https://github.com/devdk01/devdk01">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devdk01/devdk01/main/dark.svg">
+    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/devdk01/devdk01/main/light.svg">
+  </picture>
+  <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/devdk01/devdk01/main/dist/github-jet.svg"
+    alt="GitHub Jet Heatmap"
+    width="100%"
+  />
 </p>
+</a>
 
 ---
 

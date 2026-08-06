@@ -1,0 +1,9 @@
+{
+  "name": "devdk01-profile",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "generate": "node generate.mjs"
+  }
+}
