@@ -1,7 +1,7 @@
 <a href="https://github.com/devdk01/devdk01">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devdk01/devdk01/main/dark.svg">
-    <img alt="GitHub Profile Card" src="https://raw.githubusercontent.com/devdk01/devdk01/main/light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-dekas/dev-dekas/main/dark.svg">
+    <img alt="GitHub Profile Card" src="https://raw.githubusercontent.com/devdk01/dev-dekas/main/light.svg">
   </picture>
 </a>
 
@@ -32,6 +32,6 @@ Ao longo do caminho, desenvolvi diversos scripts para outros servidores FiveM, n
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devdk01&theme=tokyonight" alt="Streak" width="600"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-dekas&theme=tokyonight" alt="Streak" width="600"/>
 <br/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devdk01&show_icons=true&theme=tokyonight" alt="Stats" width="600"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-dekas&show_icons=true&theme=tokyonight" alt="Stats" width="600"/>
