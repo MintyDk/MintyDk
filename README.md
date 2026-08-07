@@ -14,31 +14,16 @@
 
 ---
 
-## O que eu construí
+## 🚀 Sobre mim & Projetos
 
-### 4MCUP — Battle Royale por times no FiveM
+Desenvolvi e gerenciei servidores no **FiveM**, focado em criar experiências dinâmicas e modelos de receita eficientes:
 
-Servidor competitivo com campeonatos no formato Battle Royale. Chegou a **90 jogadores por campeonato**.
-
-O modelo é simples: cada time paga R$ 5 pra entrar, até 20 times por campeonato, prêmio de R$ 40. Receita bruta de R$ 100 por campeonato, margem de R$ 60. Quanto mais campeonatos rodando ao mesmo tempo, maior o lucro.
-
-Vagas limitadas por campeonato — isso criou urgência de verdade na comunidade.
-
-🔗 [Discord do 4MCUP](https://discord.gg/4mcup)
+- **4MCUP**: Servidor competitivo com campeonatos no formato Battle Royale, alcançando até 90 jogadores simultâneos por torneio.
+- **4MPVP**: Servidor de PvP contínuo e dominação de mapa em tempo real, focado em alta retenção e engajamento da comunidade.
 
 ---
 
-### 4MPVP — PvP contínuo, sem frescura
-
-Depois que o 4MCup engrennou, abri um segundo servidor com proposta diferente: entra, escolhe um dos 4 times e já vai jogar. Sem inscrição, sem fila.
-
-Os times disputam dominação de mapa — quando um vence, o mapa troca automaticamente. A receita aqui vem de uma comunidade fidelizada: skins, cosméticos e VIP com vantagens no servidor.
-
-🔗 [Discord do 4MPVP](https://discord.gg/4mpvp)
-
----
-
-## Stack
+## 🛠️ Stack
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
@@ -50,7 +35,7 @@ Os times disputam dominação de mapa — quando um vence, o mapa troca automati
 
 ---
 
-## GitHub
+## 📊 GitHub Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdk01&theme=tokyonight" alt="Streak" width="600"/>
 <br/>
