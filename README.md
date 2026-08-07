@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mim & Projetos
 
-Desenvolvi e gerenciei servidores no **FiveM**, focado em pvp e campeonato:
+Desenvolvi e gerenciei servidores no FiveM, focado em PvP e campeonatos competitivos. Hoje não faço mais parte dos servidores 4M — decidi seguir meu caminho como dev, já que administrar um servidor como dono é bem difícil.
 
 - **4MCUP**: Servidor competitivo com campeonatos no formato Battle Royale, alcançando até 90 jogadores simultâneos por torneio.
 - **4MPVP**: Servidor de PvP contínuo e dominação de mapa em tempo real, focado em alta retenção e engajamento da comunidade.
