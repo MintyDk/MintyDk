@@ -32,4 +32,4 @@ Desenvolvi e gerenciei servidor no **FiveM**, focado em pvp e campeonato:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdk01&theme=tokyonight" alt="Streak" width="600"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=devdk01&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Stats" width="600"/>
+<img src="https://github-readme-stats.vercel.app/api?username=devdk01&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Stats" width="600"/>
