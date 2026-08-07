@@ -1,14 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610">
 <defs>
-  <linearGradient id="cyberGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-    <stop offset="0%" stop-color="#22D3EE">
-      <animate attributeName="stop-color" values="#22D3EE;#7C3AED;#38BDF8;#22D3EE" dur="8s" repeatCount="indefinite"/>
-    </stop>
-    <stop offset="100%" stop-color="#7C3AED">
-      <animate attributeName="stop-color" values="#7C3AED;#38BDF8;#22D3EE;#7C3AED" dur="8s" repeatCount="indefinite"/>
-    </stop>
-  </linearGradient>
-
   <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
     <stop offset="0%" stop-color="#6D28D9"/>
     <stop offset="50%" stop-color="#0891B2"/>
@@ -32,9 +23,9 @@
     <rect width="4" height="1" fill="#67E8F9" opacity="0.05"/>
   </pattern>
 
-  <pattern id="techGrid" width="20" height="20" patternUnits="userSpaceOnUse">
-    <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#0891B2" stroke-width="0.5" opacity="0.15"/>
-  </pattern>
+  <clipPath id="photoClip">
+    <rect x="28" y="38" width="460" height="444" rx="10" ry="10"/>
+  </clipPath>
 
   <clipPath id="lc0"><rect x="500" y="26.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.75s" fill="freeze"/></rect></clipPath><clipPath id="lc1"><rect x="500" y="48.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.86s" fill="freeze"/></rect></clipPath><clipPath id="lc2"><rect x="500" y="70.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.98s" fill="freeze"/></rect></clipPath><clipPath id="lc3"><rect x="500" y="92.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.09s" fill="freeze"/></rect></clipPath><clipPath id="lc4"><rect x="500" y="114.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.21s" fill="freeze"/></rect></clipPath><clipPath id="lc5"><rect x="500" y="136.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.33s" fill="freeze"/></rect></clipPath><clipPath id="lc6"><rect x="500" y="158.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.44s" fill="freeze"/></rect></clipPath><clipPath id="lc7"><rect x="500" y="180.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.56s" fill="freeze"/></rect></clipPath><clipPath id="lc8"><rect x="500" y="202.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.67s" fill="freeze"/></rect></clipPath><clipPath id="lc9"><rect x="500" y="224.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.79s" fill="freeze"/></rect></clipPath><clipPath id="lc10"><rect x="500" y="246.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.90s" fill="freeze"/></rect></clipPath><clipPath id="lc11"><rect x="500" y="268.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.02s" fill="freeze"/></rect></clipPath><clipPath id="lc12"><rect x="500" y="290.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.13s" fill="freeze"/></rect></clipPath><clipPath id="lc13"><rect x="500" y="312.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.25s" fill="freeze"/></rect></clipPath><clipPath id="lc14"><rect x="500" y="334.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.36s" fill="freeze"/></rect></clipPath><clipPath id="lc15"><rect x="500" y="356.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.48s" fill="freeze"/></rect></clipPath><clipPath id="lc16"><rect x="500" y="378.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.59s" fill="freeze"/></rect></clipPath><clipPath id="lc17"><rect x="500" y="400.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.71s" fill="freeze"/></rect></clipPath><clipPath id="lc18"><rect x="500" y="422.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.82s" fill="freeze"/></rect></clipPath><clipPath id="lc19"><rect x="500" y="444.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.94s" fill="freeze"/></rect></clipPath><clipPath id="lc20"><rect x="500" y="466.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="3.05s" fill="freeze"/></rect></clipPath><clipPath id="lc21"><rect x="500" y="488.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="3.17s" fill="freeze"/></rect></clipPath>
 
@@ -68,42 +59,16 @@
 </g>
 
 <g transform="translate(0,38)">
-  <!-- Painel Esquerdo com Arte Vetorial Nativa Cyberpunk (100% imune a bloqueios) -->
+  <!-- Painel Esquerdo -->
   <rect x="14" y="26" width="488" height="468" rx="14" fill="#F8FAFC" fill-opacity="0.4" stroke="url(#borderGrad)" stroke-width="1.5"/>
   <text x="30" y="20" class="panel-title">VISUAL.MAP</text>
 
-  <!-- Fundo com Grid Tecnológico -->
-  <rect x="28" y="38" width="460" height="444" rx="10" fill="url(#techGrid)"/>
-
-  <!-- Elemento Gráfico Central (Emblema Cyberpunk Animado) -->
-  <g transform="translate(258, 260)">
-    <!-- Círculos Concentricos Pulsantes -->
-    <circle r="140" fill="none" stroke="url(#cyberGrad)" stroke-width="1" opacity="0.3" stroke-dasharray="8 6">
-      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/>
-    </circle>
-    
-    <circle r="110" fill="none" stroke="url(#cyberGrad)" stroke-width="1.5" opacity="0.6" stroke-dasharray="14 10">
-      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="14s" repeatCount="indefinite"/>
-    </circle>
-
-    <circle r="80" fill="none" stroke="url(#cyberGrad)" stroke-width="2" opacity="0.8">
-      <animate attributeName="r" values="76;84;76" dur="3s" repeatCount="indefinite"/>
-    </circle>
-
-    <!-- Ícone de Desenvolvedor / Hexágono Central -->
-    <polygon points="0,-45 39,-22.5 39,22.5 0,45 -39,22.5 -39,-22.5" fill="none" stroke="url(#cyberGrad)" stroke-width="2.5"/>
-
-    <!-- Iniciais / Símbolo 'D' de Derick -->
-    <text x="0" y="12" text-anchor="middle" font-family="'Courier New', monospace" font-size="36" font-weight="bold" fill="url(#cyberGrad)">D</text>
-
-    <!-- Miras HUD -->
-    <line x1="-150" y1="0" x2="-120" y2="0" stroke="#0891B2" stroke-width="1.5" opacity="0.5"/>
-    <line x1="120" y1="0" x2="150" y2="0" stroke="#0891B2" stroke-width="1.5" opacity="0.5"/>
-    <line x1="0" y1="-150" x2="0" y2="-120" stroke="#0891B2" stroke-width="1.5" opacity="0.5"/>
-    <line x1="0" y1="120" x2="0" y2="150" stroke="#0891B2" stroke-width="1.5" opacity="0.5"/>
+  <!-- Sua Foto Real (profile.jpg) dentro da caixa do terminal -->
+  <g clip-path="url(#photoClip)">
+    <image href="https://raw.githubusercontent.com/devdk01/devdk01/main/profile.jpg" x="28" y="28" width="460" height="460" preserveAspectRatio="xMidYMid slice"/>
   </g>
 
-  <!-- Moldura HUD Externa -->
+  <!-- Moldura HUD da foto -->
   <rect x="28" y="38" width="460" height="444" rx="10" fill="none" stroke="url(#borderGrad)" stroke-width="1.5" opacity="0.8"/>
 
   <!-- Painel Direito -->
