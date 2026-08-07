@@ -1,16 +1,26 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devdk01/devdk01/main/profile.jpg" width="180" height="180" style="border-radius: 50%; object-fit: cover;" alt="Derick" />
+  
+  <h1>Derick</h1>
+  <p><b>Engenharia de Software · Empreendedor · Desenvolvedor FiveM</b></p>
+</div>
+
+<br/>
+
 <a href="https://github.com/devdk01/devdk01">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devdk01/devdk01/main/dark.svg">
-    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/devdk01/devdk01/main/light.svg">
+    <img alt="GitHub Profile Card" src="https://raw.githubusercontent.com/devdk01/devdk01/main/light.svg">
   </picture>
-  <p align="center">
+</a>
+
+<p align="center">
   <img
     src="https://raw.githubusercontent.com/devdk01/devdk01/main/dist/github-jet.svg"
     alt="GitHub Jet Heatmap"
     width="100%"
   />
 </p>
-</a>
 
 ---
 
