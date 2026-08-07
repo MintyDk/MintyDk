@@ -3,13 +3,20 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devdk01/devdk01/main/dark.svg">
     <img alt="GitHub Profile Card" src="https://raw.githubusercontent.com/devdk01/devdk01/main/light.svg">
   </picture>
+  <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/devdk01/devdk01/main/dist/github-jet.svg"
+    alt="GitHub Jet Heatmap"
+    width="100%"
+  />
+</p>
 </a>
 
 ---
 
 ## 🚀 Sobre mim & Projetos
 
-Desenvolvi e gerenciei servidor no **FiveM**, focado em pvp e campeonato:
+Desenvolvi e gerenciei servidores no **FiveM**, focado em criar experiências dinâmicas e modelos de receita eficientes:
 
 - **4MCUP**: Servidor competitivo com campeonatos no formato Battle Royale, alcançando até 90 jogadores simultâneos por torneio.
 - **4MPVP**: Servidor de PvP contínuo e dominação de mapa em tempo real, focado em alta retenção e engajamento da comunidade.
