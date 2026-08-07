@@ -15,6 +15,7 @@ Desenvolvi e gerenciei servidores no FiveM, focado em PvP e campeonatos competit
 - **4MPVP**: Servidor de PvP contínuo e dominação de mapa em tempo real, focado em alta retenção e engajamento da comunidade.
 
 Ao longo do caminho, desenvolvi diversos scripts para outros servidores FiveM — no caso do 4MCUP e 4MPVP, além de dev, também fui dono.
+
 ---
 
 ## 🛠️ Stack
